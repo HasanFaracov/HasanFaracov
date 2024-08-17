@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasan Farajov</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **Data science, Machine learning** - 💬 Ask me about **ABAP, SQL** - 📫 How to reach me **hfaracov321@gmail.com**
+- 🌱 I’m currently learning **Data science, Machine learning**
+- 💬 Ask me about **ABAP, SQL**
+- 📫 How to reach me **hfaracov321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
