@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Farajov</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">SAP ABAP Developer, Data science enthusiast</h3>
 
 - 🌱 I’m currently learning **Data science, Machine learning**
 - 💬 Ask me about **ABAP, SQL**
